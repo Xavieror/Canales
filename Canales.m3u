@@ -2,17 +2,15 @@
 #EXTINF:-1 ,[COLOR blue]*---Canales Locales de Perú---*[/COLOR]
 http://facebook.com
 
-#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="atv.png" tvg-shift="5",ATV - Perú
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
-
-#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="5",TV - Perú
-http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="5",Panamerica - Perú
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
 
 #EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="willax.png",Willax - Perú
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 
+#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="5",TV - Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+
 #EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="5",América TV - Perú
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="5",Panamerica - Perú
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
