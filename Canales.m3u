@@ -2,49 +2,72 @@
 #EXTINF:-1 ,[COLOR blue]*---Canales Locales de Perú---*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1 Willax
-rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC HD - Perú
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 
-#EXTINF:-1 TV Peru
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC Canal 11 - Perú
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+
+#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="atv.png" tvg-shift="5",ATV - Perú
+http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+
+#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="5",TV - Perú
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
 
-#EXTINF:-1 America TV
+#EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="willax.png",Willax - Perú
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+
+#EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="5",América TV - Perú
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="5",Panamerica - Perú
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+
 
 #EXTINF:-1 ,[COLOR red]*-----Deportes-----*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1,Fox sports
-http://192.99.147.19:5808/foxsports/playlist.m3u8
-#EXTINF:-1,Fox sports2
-http://192.99.147.19:5808/foxsports2/playlist.m3u8
-#EXTINF:-1, FOX SPORTS Latino
-http://199.180.114.174:8000/foxs.m3u8
-#EXTINF:-1, FOX SPORTS 2 Latino
-http://199.180.114.174:8000/foxs2.m3u8
-#EXTINF:-1, FOX SPORTS 3 Latino
-http://199.180.114.174:8000/foxs3.m3u8
-#EXTINF:-1, ESPN latino
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:-1, ESPN2 latino
-http://199.180.114.174:8000/espn2.m3u8
-#EXTINF:-1, ESPN 3 latino
-http://199.180.114.174:8000/espn3.m3u8
-#EXTINF:-1, ESPN
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-#EXTINF:0, ESPN +
-http://185.63.255.112/live/max3/chunks.m3u8?nimblesessionid=1052842
-#EXTINF:0, ESPN DEPORTES
-http://185.63.255.26/live/max12/chunks.m3u8?nimblesessionid=812167
-#EXTINF:-1, bein sport 1
-http://edge.ultracast.me:1935/live/1beinjkJND/playlist.m3u8?Token
-#EXTINF:-1, bein sport 6
-http://edge.ultracast.me:1935/live/6BXUSQR/playlist.m3u8?Token
-#EXTINF:-1, bein sport 7
-http://edge.ultracast.me:1935/live/7beinvrKAl/playlist.m3u8?Token
-#EXTINF:-1, bein sport 8
-http://edge.ultracast.me:1935/live/8beinfLUBH/playlist.m3u8?Token
-#EXTINF:-1, bein sport 11 en
-http://edge.ultracast.me:1935/live/11beinYBWna/playlist.m3u8?Token
-#EXTINF:0,beIN SPORTS 1HD
-http://185.63.255.26/live/max20a1/chunks.m3u8?nimblesessionid=812665
+#EXTINF:-1,ESPN HD
+http://wcm777.la/tp/espn-hd.m3u8
+
+#EXTINF:-1,ESPN
+http://wcm777.la/tp/espn.m3u8
+
+#EXTINF:-1,ESPN 2
+http://wcm777.la/tp/espn-2.m3u8
+
+#EXTINF:-1,ESPN 3
+http://wcm777.la/tp/espn-3.m3u8
+
+#EXTINF:-1,Fox Sports
+http://wcm777.la/tp/fox-sports.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://wcm777.la/tp/fox-sports-2.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://wcm777.la/mariocs.php?canal=FoxSports3SD&cm=3806&f=mariocs.m3u8
+
+#EXTINF:-1,Bein Ñ Sports
+http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
+
+#EXTINF:-1,Win Sports
+http://wcm777.la/stream/Win-Sports.m3u8
+
+#EXTINF:-1,CMD Perú
+http://wcm777.la/stream/CMD.m3u8
+
+#EXTINF:-1,UFC Network
+http://wcm777.la/mariocs.php?canal=UFCNetworkLA&cm=1047&f=mariocs.m3u8
+
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Planeta Futbol
+http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477&f=mariocs.m3u8
+
+#EXTINF:0,F1 Latino
+http://wcm777.la/mariocs.php?canal=F1LA&cm=1695&f=mariocs.m3u8
+
+#EXTINF:0,WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
