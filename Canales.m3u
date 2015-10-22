@@ -11,8 +11,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 #EXTINF:-1 tvg-name="XHDF" tvg-logo="america.png" group-title="Canales Locales de Perú",America TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:-1 ,[COLOR blue]*---Deportes---*[/COLOR]
+#EXTINF:-1 ,[COLOR blue][CENTER]*---Deportes---*[/CENTER][/COLOR]
 http://facebook.com
 
 #EXTINF:-1 tvg-name="XHDF" tvg-logo="wwe.png" group-title="Deportes",Wwe Network
-rtmp://$OPT:rtmp-raw=rtmp://37.220.32.36:443/liverepeater playpath=stream38 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream38.html
+https://www.streamlive.to/view-now/67439/24x7_WWE_NETWORK_LIVE_STREAM-live-stream-channel
