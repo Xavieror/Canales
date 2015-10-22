@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,[COLOR blue]*---Canales Locales de Perú---*[/COLOR]
-http://facebook.com
+#EXTINF:0,group-title="Canales Nacionales",[COLOR red][B]Canales Nacionales[/B][/COLOR]
+http://?
 
 #EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC HD - Perú
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
@@ -24,8 +24,8 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
 
 
-#EXTINF:-1 ,[COLOR red]*-----Deportes-----*[/COLOR]
-http://facebook.com
+#EXTINF:0,group-title="Canales de Deportes",[COLOR red][B]Canales de Deportes[/B][/COLOR]
+http://?
 
 #EXTINF:-1,ESPN HD
 http://wcm777.la/tp/espn-hd.m3u8
