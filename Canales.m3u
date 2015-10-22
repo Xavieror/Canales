@@ -11,8 +11,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 #EXTINF:-1 tvg-name="XHDF" tvg-logo="america.png" group-title="Canales Locales de Perú",America TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:-1 ,[COLOR blue][CENTER]*---Deportes---*[/CENTER][/COLOR]
+#EXTINF:-1 ,[COLOR red]*---DEPORTES---*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1 tvg-name="XHDF" tvg-logo="wwe.png" group-title="Deportes",Wwe Network
-https://www.streamlive.to/view-now/67439/24x7_WWE_NETWORK_LIVE_STREAM-live-stream-channel
+#EXTINF:-1 tvg-name="XHDF" tvg-logo="wwe.png" group-title="Deportes",Wwe
+rtmp://$OPT:rtmp-raw=rtmp://12445055.cast247.tv:443/live playpath=misteryoloing?ticket=6eb443c9eab8c324112b42ae854f16d9 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=misteryoloing&width=614&height=320&domain=www.fightfeeds.net
