@@ -2,6 +2,9 @@
 #EXTINF:0,group-title="CANALES NACIONALES",[COLOR red][B]CANALES NACIONALES[/B][/COLOR]
 http://?
 
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",CMD - Perú
+http://62.210.88.233:1935/liverepeat/prueba87/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
 
