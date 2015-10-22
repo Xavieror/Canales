@@ -2,23 +2,23 @@
 #EXTINF:-1 ,[COLOR blue]*---Canales Locales de Perú---*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1 tvg-name="XHDF" tvg-logo="willax.png" group-title="Canales Locales de Perú",Willax
+#EXTINF:-1 Willax
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 
-#EXTINF:-1 tvg-name="XHDF" tvg-logo="tvperu.png" group-title="Canales Locales de Perú",TV Peru
+#EXTINF:-1 TV Peru
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="XHDF" tvg-logo="america.png" group-title="Canales Locales de Perú",America TV
+#EXTINF:-1 America TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
 #EXTINF:-1 ,[COLOR red]*-----Deportes-----*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1 tvg-name="XHDF" group-title="Deportes",Fox sports
+#EXTINF:-1,Fox sports
 http://192.99.147.19:5808/foxsports/playlist.m3u8
-#EXTINF:-1,Fox sports2 group-title="DEPORTES"
+#EXTINF:-1,Fox sports2
 http://192.99.147.19:5808/foxsports2/playlist.m3u8
-#EXTINF:-1, FOX SPORTS Latino group-title="DEPORTES"
+#EXTINF:-1, FOX SPORTS Latino
 http://199.180.114.174:8000/foxs.m3u8
 #EXTINF:-1, FOX SPORTS 2 Latino
 http://199.180.114.174:8000/foxs2.m3u8
