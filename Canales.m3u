@@ -11,10 +11,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 #EXTINF:-1 tvg-name="XHDF" tvg-logo="america.png" group-title="Canales Locales de Perú",America TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:-1 ,[COLOR red]*---DEPORTES---*[/COLOR]
+#EXTINF:-1 ,[COLOR red]*-----Deportes-----*[/COLOR]
 http://facebook.com
 
-#EXTINF:-1,Fox sports group-title="DEPORTES"
+#EXTINF:-1 tvg-name="XHDF" group-title="Deportes",Fox sports
 http://192.99.147.19:5808/foxsports/playlist.m3u8
 #EXTINF:-1,Fox sports2 group-title="DEPORTES"
 http://192.99.147.19:5808/foxsports2/playlist.m3u8
