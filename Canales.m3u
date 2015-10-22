@@ -21,7 +21,7 @@ rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 
 #EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="atv.png" tvg-shift="5",ATV - Perú
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+rtmp://$OPT:rtmp-raw=rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360 conn=S:OK
 
 #EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="5",TV - Perú
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
