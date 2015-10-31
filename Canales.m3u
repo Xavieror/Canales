@@ -31,29 +31,47 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:0,group-title="DEPORTES",[COLOR red][B]----------DEPORTES-------[/B][/COLOR]
 http://?
 
-#EXTINF:-1,ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 2 HD
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN +
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1,ESPN 3
-http://185.63.252.213/live/max2a2/playlist.m3u8
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1,FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1,FOX 2 SPORTS
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1, FOX SPORTS 3 Latino
-http://199.180.114.174:8000/foxs3.m3u8
+#EXTINF:-1,PX
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN + HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,FOX SPORTS HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,FOX SPORTS 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,PX HD
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1, bein sport 1
 http://edge.ultracast.me:1935/live/1beinjkJND/playlist.m3u8?Token
@@ -1206,49 +1224,3 @@ http://iptvcanales.com/xw/peliculas.php?movie=139
 http://iptvcanales.com/xw/peliculas.php?movie=140
 #EXTINF:-1,EL HOBBIT: LA BATALLA DE LOS 5 EJERCITOS
 http://iptvcanales.com/xw/peliculas.php?movie=141
-
-
-
-#EXTINF:0, PRIVATE GOLD
-http://selling-team.net:8000/live/alex/alex/593.m3u8
-#EXTINF:0, PRIVATE.COM
-http://selling-team.net:8000/live/alex/alex/2260.m3u8
-#EXTINF:0, PRIVATE.COM
-http://q.gs/9830047/sex2todokodi
-        #EXTINF:0, PRIVATE.COM
-        http://178.33.126.213:1935/leved/privateCom/.m3u8
-        #EXTINF:0, Private.Com
-        http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
-        #EXTINF:0, PRIVATE
-        http://selling-team.net:8000/live/alex/alex/1367.m3u8
-        #EXTINF:0, PASSION XXX
-        http://q.gs/9830047/sex3todokodi
-        #EXTINF:0, PASSION XXX
-        http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-        #EXTINF:0, PASSION XXX
-        http://bit.ly/1iWJzTi
-        #EXTINF:0, DORCEL TV
-        http://selling-team.net:8000/live/alex/alex/1273.m3u8
-        #EXTINF:0, VENUS
-        http://iptvdragon.dyndns.tv:8000/live/bilal/bilal/2346.m3u8
-        #EXTINF:0, DORCEL
-        http://selling-team.net:8000/live/alex/alex/1368.m3u8
-        #EXTINF:0, Blue Hustler
-        http://selling-team.net:8000/live/alex/alex/2545.m3u8
-        #EXTINF:0, HUSTLER TV
-        http://selling-team.net:8000/live/alex/alex/1775.m3u8
-        #EXTINF:0, HUSTLER HD
-        http://mainstream.dyndns.tv:8000/live/conny/conny/935.m3u8
-        #EXTINF:0, HUSTLER HD
-        http://iptvdragon.dyndns.tv:8000/live/bilal/bilal/2395.m3u8
-        #EXTINF:0, Brazzers tv Europe
-        http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-        #EXTINF:0, Ola Ola
-        http://selling-team.net:8000/live/alex/alex/2546.m3u8
-#EXTINF:-1,Beinsport Latino HD 720
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MiCanal
-#EXTINF:-1,Beinsport Latino
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b4628000.m3u8#MiCanal
-#EXTINF:-1,Bein Latino HD 1080
-http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8#MiCanal         
-         
