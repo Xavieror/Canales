@@ -3,8 +3,8 @@
 #EXTINF:0,group-title="CANALES NACIONALES",[COLOR red][B]CANALES NACIONALES[/B][/COLOR]
 http://?
 
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",MTV
-http://37.130.226.172/livemtv2014/playlist.m3u8?id=80831&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",CMD
+http://178.162.202.6/livezeyucmd02/playlist.m3u8?id=238018&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
