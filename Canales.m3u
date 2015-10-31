@@ -232,15 +232,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 #EXTINF:0,Peliculas HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8??-1332/1499-20150816T153535.ts
 
-#EXTINF:-1,MTV
-http://200.76.77.230/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,MTV HITS
-http://200.76.77.230/LIVE/H01/CANAL727/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
-
-#EXTINF:-1,MTV LIVE
-http://200.76.77.230/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
 #EXTINF:-1,Cine Dinamita
 http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465&f=mariocs.m3u8?-1332/1499-20150816T153535.ts
 
