@@ -4,7 +4,7 @@
 http://?
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",CMD - Perú
-http://178.162.202.6:1935/live.m3u playpath=cmd3388?id=237977&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/cmd3388/1/600/400
+http://178.162.202.6:1935/live playpath=cmd3388?id=237977&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/cmd3388/1/600/400
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
