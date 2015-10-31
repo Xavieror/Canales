@@ -3,8 +3,8 @@
 #EXTINF:0,group-title="CANALES NACIONALES",[COLOR red][B]CANALES NACIONALES[/B][/COLOR]
 http://?
 
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",CMD - Pereee
-http://178.162.202.6:1935/live/playlist.m3u8 playpath=cmd3388?id=237977&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/cmd3388/1/600/400
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",MTV
+http://173.192.209.69:1935/live/mtv2014?id=80831&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab/playlist.m3u8 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/mtv2014/1/600/385
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
