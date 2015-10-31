@@ -4,7 +4,7 @@
 http://?
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",CMD
-rtmp://$OPT:rtmp-raw=rtmp://173.192.209.69/live playpath=mtv2014?id=80831&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/mtv2014/1/600/385
+http://173.192.209.69:1935/live/mtv2014?id=80831&pk=b514e5571d954a96dce1e81f04203a35a2b1891098b39926d89da2da3de810ab/playlist.m3u
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
